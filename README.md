@@ -15,6 +15,9 @@
   ### Homepage
   ![homepage](./public/assets/img/homepage.png "homepage")
 
+  ### Notes app
+  ![notes](./public/assets/img/notes.png "notes")
+
   ## Table of Contents
   - [Installation](#Installation)
   - [Usage](#Usage)
