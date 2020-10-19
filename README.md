@@ -27,6 +27,7 @@
 
   ## Installation
 
+  Please install the following.  
   * Node.js 
   * Express.js
 
