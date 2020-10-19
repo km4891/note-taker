@@ -10,6 +10,11 @@
 
   https://github.com/km4891/note-taker
 
+  ## Screenshots
+
+  ### Homepage
+  ![homepage](./public/assets/img/homepage.png "homepage")
+
   ## Table of Contents
   - [Installation](#Installation)
   - [Usage](#Usage)
