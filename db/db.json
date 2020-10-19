@@ -1,1 +1,22 @@
-[]
+[
+    {
+    "title":"Everybody was",
+    "text":"Kung Fu fighting",
+    "id":1
+    },
+    {
+    "title":"Those cats",
+    "text":"were as fast as lightning",
+    "id":2
+    },
+    {
+    "title":"In fact",
+    "text":"it was a little bit frightening",
+    "id":3
+    },
+    {
+    "title":"But they",
+    "text":"fought with expert timing",
+    "id":4
+    }
+]

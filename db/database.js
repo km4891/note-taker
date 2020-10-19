@@ -48,6 +48,7 @@ class Notes {
 
     }
 
+    
     removeNote(id) {
         return this.allNotes()
             .then(notes => notes.filter(note => note.id !==parseInt(id)))
