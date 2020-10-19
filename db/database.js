@@ -48,7 +48,11 @@ class Notes {
 
     }
 
-
+    removeNote(id) {
+        return this.allNotes()
+            .then(notes => notes.filter(note => note.id !==parseInt(id)))
+            .then(filteredNotes => this.write(filteredNotes));
+    }
 }
 
 module.exports = new Notes();
